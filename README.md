@@ -1,17 +1,17 @@
 # Hi there 👋 I'M Success
 
 ![Success anele-2](https://user-images.githubusercontent.com/78314396/171156766-b69d92e7-8a97-426c-9f2e-9036364ea92c.png)
-Here are some ideas to get you started:
 
+### :woman_technologist: About me
+
+Data Engineer trainee at Aicore.
+
+- 👩‍🎓 BTech in Chemistry and MSc in Managing innovation and  Information Technology.
+- 👩‍💼 Experience in an analytic role and currently training to be a Data Engineer.
 - 🔭 I’m currently working on Data Collection Pipline Project
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: You can reach out to me on (linkedin.com/in/success-anele-54378410a)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning SQL
+- 💬 Ask me about my projects.
+- 📫 How to reach me: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/success-anele-54378410a)
 
 
 ### :hammer_and_wrench: Languages and Tools
