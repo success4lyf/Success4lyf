@@ -14,6 +14,7 @@ Data Engineer trainee at Aicore.
 - 📫 How to reach me: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/success-anele-54378410a)
 
 
+
 ### :hammer_and_wrench: Languages and Tools
  <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
