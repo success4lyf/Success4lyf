@@ -11,7 +11,7 @@ Data Engineer trainee at Aicore.
 - 🔭 I’m currently working on Data Collection Pipline Project
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about my projects.
-- 📫 How to reach me: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/success-anele-54378410a)
+- 📫 How to reach me: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/success-anele-54378410a)
 
 
 ### :hammer_and_wrench: Languages and Tools
