@@ -4,7 +4,7 @@
 
 ## :woman_technologist: About me
 
-Data Engineer trainee at Aicore.
+Data Engineer Professional.
 
 - 👩‍🎓 BTech in Chemistry and MSc in Managing innovation and  Information Technology.
 - 👩‍💼 Experience in an analytic role and currently training to be a Data Engineer.
