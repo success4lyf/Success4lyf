@@ -9,7 +9,6 @@ Data Engineer Professional.
 - 👩‍🎓 BTech in Chemistry and MSc in Managing innovation and  Information Technology.
 - 👩‍💼 Experience in an analytic role and currently training to be a Data Engineer.
 - 🔭 I’m currently working on Data Collection Pipline Project
-- 🌱 I’m currently learning SQL
 - 💬 Ask me about my projects.
 - 📫 How to reach me: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/success-anele-54378410a)
 
